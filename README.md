@@ -35,3 +35,7 @@ A simple data logger using **ESP32** and **Micro SD card adapter** that logs dat
    ```cpp
    const char* ssid = "YOUR_WIFI_NAME";
    const char* password = "YOUR_WIFI_PASSWORD";
+## Reference
+
+This project’s basic SD card interfacing method and circuit diagram are inspired by  
+[ElectronicWings: MicroSD Card Interfacing with ESP32](https://www.electronicwings.com/esp32/microsd-card-interfacing-with-esp32)
