@@ -24,6 +24,10 @@ A simple data logger using **ESP32** and **Micro SD card adapter** that logs dat
 | VCC       | 3.3V / 5V |
 | GND       | GND       |
 
+## Circuit Diagram
+
+![ESP32 SD Logger Circuit](assets/circuit.png)
+
 ## Setup Instructions
 1. Format your SD card as **FAT32**.
 2. Connect SD card module to ESP32 according to pin table above.
